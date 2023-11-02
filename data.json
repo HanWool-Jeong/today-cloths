@@ -1,0 +1,170 @@
+{
+  "04:46:39.532638": {
+    "gender": 1,
+    "type1": 3,
+    "type2": "Coat-Long",
+    "color": "Light Green",
+    "thickness": 1
+  },
+  "17:10:02.887234": {
+    "gender": 1,
+    "type1": 2,
+    "type2": "Skinny-Cotton",
+    "color": "Yellow",
+    "thickness": 2
+  },
+  "17:19:38.029118": {
+    "gender": 2,
+    "type1": 3,
+    "type2": "Coat-Long",
+    "color": "Orange",
+    "thickness": 2
+  },
+  "13:51:46.656575": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Knit",
+    "color": "Indi Pink",
+    "thickness": 2
+  },
+  "13:51:48.871166": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Knit",
+    "color": "Indi Pink",
+    "thickness": 2
+  },
+  "13:54:13.202528": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Long-Sleeved T",
+    "color": "Light Green",
+    "thickness": 3
+  },
+  "16:28:36.925522": {
+    "gender": 1,
+    "type1": 2,
+    "type2": "Training-Pants",
+    "color": "Hot Pink",
+    "thickness": 3
+  },
+  "16:38:59.148774": {
+    "gender": 1,
+    "type1": 3,
+    "type2": "\uc18c\ubd84\ub958 \uc120\ud0dd",
+    "color": "\uc0c9\uc0c1 \uc120\ud0dd",
+    "thickness": 3
+  },
+  "16:39:16.776743": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Hood",
+    "color": "Yellow",
+    "thickness": 3
+  },
+  "17:36:05.935962": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Knit",
+    "color": "Deep Blue",
+    "thickness": 3
+  },
+  "17:36:11.339342": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Sleeveless",
+    "color": "Deep Blue",
+    "thickness": 3
+  },
+  "17:36:18.559044": {
+    "gender": 1,
+    "type1": 2,
+    "type2": "Straight-Cotton",
+    "color": "Hot Pink",
+    "thickness": 3
+  },
+  "17:36:22.934695": {
+    "gender": 1,
+    "type1": 2,
+    "type2": "Shorts",
+    "color": "Hot Pink",
+    "thickness": 3
+  },
+  "17:36:33.241757": {
+    "gender": 1,
+    "type1": 3,
+    "type2": "Jacket-Suit",
+    "color": "Wine",
+    "thickness": 3
+  },
+  "17:36:37.662992": {
+    "gender": 1,
+    "type1": 3,
+    "type2": "Jacket-Suit",
+    "color": "Purple",
+    "thickness": 3
+  },
+  "17:36:44.096684": {
+    "gender": 1,
+    "type1": 3,
+    "type2": "Kardigan",
+    "color": "Purple",
+    "thickness": 3
+  },
+  "18:30:03.842749": {
+    "gender": 1,
+    "type1": 2,
+    "type2": "Wide-Denim",
+    "color": "Black",
+    "thickness": 3
+  },
+  "18:30:13.503180": {
+    "gender": 1,
+    "type1": 3,
+    "type2": "Jumper",
+    "color": "Black",
+    "thickness": 3
+  },
+  "16:25:58.189438": {
+    "gender": 1,
+    "type1": 2,
+    "type2": "Training-Pants",
+    "color": "Black",
+    "thickness": 3
+  },
+  "16:29:04.165646": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Man-to-Man",
+    "color": "Light Purple",
+    "thickness": 3
+  },
+  "16:40:51.314747": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Hood",
+    "color": "Black",
+    "thickness": 3
+  },
+  "16:40:58.897044": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Man-to-Man",
+    "color": "Black",
+    "thickness": 3
+  },
+  "16:41:00.362027": {
+    "gender": 1,
+    "type1": 1,
+    "type2": "Man-to-Man",
+    "color": "Black",
+    "thickness": 3
+  },
+  "16:41:51.439139": {
+    "gender": 1,
+    "type1": 2,
+    "type2": "Training-Pants",
+    "color": "White",
+    "thickness": 3
+  }
+}
